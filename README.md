@@ -1,5 +1,5 @@
 # Sign Up Page
-![Screenshot (245)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/5e743152-c2e0-4307-9de4-e45d62f31e4b)
+![Screenshot (253)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/4922fadb-4390-436d-bc6f-4c0497da39e2)
 
 ![Screenshot (251)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/b377da7f-b15d-4444-9fb9-481b2f88a2c9)
 
