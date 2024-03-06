@@ -1,0 +1,190 @@
+/* General styling */
+body {
+  background: linear-gradient(to bottom right, #3399FF, #FFD700);
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 500px; /* Setting form length to 500px */
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  
+  text-align: center;
+  color:white;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="file"],
+button {
+  
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.5); /* Transparent background for inputs */
+}
+
+button {
+  /**background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;**/
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3; 
+ /* Hover effect for buttons */
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+  margin-bottom: 10px;
+}
+
+/* Advanced Animations */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.slideIn {
+  animation: slideIn 0.5s ease;
+}
+
+.fadeIn {
+  animation: fadeIn 0.5s ease;
+}
+.App {
+  background: linear-gradient(to bottom right, #3399FF, #FFD700);
+  padding: 20px; /* Add padding to create space around the content */
+}
+
+header {
+  background-color: #8A2BE2; /* Purple color for the header */
+  padding: 10px;
+  margin-bottom: 20px; /* Add margin bottom to create space between header and content */
+}
+
+main {
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  border-bottom: 1px solid #ccc; /* Add border bottom to separate list items */
+  padding: 20px;
+  margin-bottom: 20px; /* Add margin bottom to create space between list items */
+  background-color: #fff; /* White background for list items */
+  border-radius: 8px; /* Add border radius for rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow for a lifted effect */
+}
+
+li:last-child {
+  border-bottom: none; /* Remove border bottom from the last list item */
+}
+
+/**.App {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: white;
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0;
+  position: relative;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+p {
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.text-red-500 {
+  color: #e53e3e;
+}
+
+
+@keyframes slideInListItem {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}**/
