@@ -1,4 +1,5 @@
-
+# Sign Up Page
+![Screenshot (245)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/5e743152-c2e0-4307-9de4-e45d62f31e4b)
 
 
 # Getting Started with Create React App
