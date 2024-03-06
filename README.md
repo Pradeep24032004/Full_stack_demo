@@ -1,12 +1,3 @@
-![Screenshot (252)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/825d4f19-91d8-4d49-8db8-48d99ac1585d)
-![Screenshot (253)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/081feaf3-b46c-44e7-9205-156d0449023d)
-![Screenshot 2024-03-05 164140](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/f903e63a-cf13-4873-bdd8-d6a4d33c378f)
-![Screenshot (245)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/ba26c7d5-8a0d-4173-88b7-e6b4d41be387)
-![Screenshot (246)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/7e952609-fd60-42a7-8724-d4c5a32067d7)
-![Screenshot (247)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/8db3041d-9208-4dd6-973e-a9f23d44830b)
-![Screenshot (248)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/7c47c5e1-fecd-4270-802c-c7d2cf0b1766)
-![Screenshot (250)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/8f69be1e-6ea3-4179-9279-67e2a9b081d9)
-![Screenshot (251)](https://github.com/Pradeep24032004/Full_stack_demo/assets/118010705/2f483d13-15f1-47c1-8d82-8791e39214aa)
 
 
 
